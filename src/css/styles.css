@@ -1,0 +1,52 @@
+h3{
+    font-family: "Inconsolata";
+}
+#left-side {
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 37.11%;
+}
+
+img{
+    width: 539.22px;
+    height: 414.25px;
+    top: 265px;
+    left: 77px;
+}
+
+#right-side{
+    /*float: right;*/
+    position: absolute;
+    left: 51.11%;
+    right: 45.08%;
+    top: 29.34%;
+    bottom: 69.79%;
+}
+
+#error-title{
+    width: 586px;
+    height: 190px;
+    top: 265px;
+    left: 735px;
+    font-family: 'Space Mono';
+    font-weight: 700;
+    font-style: normal;
+    font-size: 64px;
+    line-height: 94.78px;
+    letter-spacing: -3.7%;
+}
+
+#error-info{
+    width: 381px;
+    height: 108px;
+    top: 491px;
+    left: 736px;
+    font-family: 'Space Mono';
+    font-weight: 400;
+    font-style: normal;
+    font-size: 24px;
+    line-height: 35.54px;
+    letter-spacing: -3.5%;
+}
